@@ -4,3 +4,4 @@ Section: 9-SILICON
 Fav color: GREEN
 
 * [Chinese Zodiac Signs] (q1/zodiacSectionLN.md)
+* [Computational Thinking Exercise] (q1/Smart vending machine.md)
