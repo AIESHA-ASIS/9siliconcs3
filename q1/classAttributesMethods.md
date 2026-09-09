@@ -12,13 +12,16 @@ Changes from my previous design: "availability" attribute gets renamed to "__is_
 |price |int|public|cost needs to be visible to buyers when browsing items|
 |quantity|int|public|quantity needs to be visible to determine the amount of stock available
 |__is_available|boolean|private|Prevents the external code from setting the attribute to True/False without checking actual item stock|
+
 ## Updated UML Class Diagram
-(<img width="172" height="282" alt="classdiagramSG5 drawio" src="https://github.com/user-attachments/assets/b9267bb2-21a7-497f-8860-56364942b890" />
+<img width="172" height="282" alt="classdiagramSG5 drawio" src="https://github.com/user-attachments/assets/b9267bb2-21a7-497f-8860-56364942b890" />
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
+
 ## Test Run
 <img width="1840" height="640" alt="images-classTestRun" src="https://github.com/user-attachments/assets/19508c75-f351-463b-960e-add61ca13958" />
+
 ## Object Diagram
 <img width="357" height="351" alt="images-objectDiagram" src="https://github.com/user-attachments/assets/d5eac6c3-3d55-4c60-a522-09c489e4c0fb" />
 
