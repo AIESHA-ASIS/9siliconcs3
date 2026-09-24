@@ -13,7 +13,7 @@ Child: Iron sword
 Explanation: The child is a type of the parent because an iron sword 'IS-A' weapon. The child class 'Iron sword' inherits common attributes from the parent class 'Weapon.'
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](images/inheritanceDiagram.drawio.png)
 
 ## Composition/Aggregation
 Relationship: Composition 
@@ -22,16 +22,16 @@ Contained Object: Blade
 Explanation: The object 'Iron sword' contains a 'Blade'. A blade is a part of an Iron sword which means it co-exists with the sword. Once the iron sword object is deleted, the blade object is also deleted.
 
 ## Advanced UML Diagram
-![Advanced UML](q1/images/advancedClassDiagram.drawio.png)
+![Advanced UML](images/advancedClassDiagram.drawio.png)
 
 ## Python Implementation
 [Source Code](advancedRelationship.py)
 
 ## Test Run
-![Test](q1/images/advancedTestRun.png)
+![Test](images/advancedTestRun.png)
 
 ## Object Diagram
-![Objects](q1/images/advancedObjectDiagram.drawio.png)
+![Objects](images/advancedObjectDiagram.drawio.png)
 
 ## Reflection
 Answers:
