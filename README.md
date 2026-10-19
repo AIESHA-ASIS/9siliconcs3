@@ -13,5 +13,7 @@ Fav color: GREEN
 * [Class Attribution Methods](q1/classAttributesMethods.md)
 * [Class relationships](q1/classRelationships.md)
 * [Advanced Class Relationships](q1/advancedRelationships.md)
+
+## Quarter 2 activities
 * [SG 8 - ENCAPSULATION](q2/sg8_encapsulation.py)
 * [SG 9 - INHERITANCE](q2/sg9_inheritance.py)
