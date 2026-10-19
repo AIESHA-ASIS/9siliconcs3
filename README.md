@@ -13,4 +13,4 @@ Fav color: GREEN
 * [Class Attribution Methods](q1/classAttributesMethods.md)
 * [Class relationships](q1/classRelationships.md)
 * [Advanced Class Relationships](q1/advancedRelationships.md)
-* 
+* [SG 8 - ENCAPSULATION](q2/sg8_encapsulation.py)
