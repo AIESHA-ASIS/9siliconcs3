@@ -19,4 +19,4 @@ Fav color: GREEN
 * [SG 9 - INHERITANCE](q2/sg9_inheritance.py)
 * [SG 10 - METHOD OVERRIDING](q2/sg10_method overriding.py)
 * [SG 11 - POLYMORPHISM (Activity 1)](q2/sg11_polymorphism_activity-1.py)
-* [SG 11 - POLYMORPHIDM (Activity 2)](q2/sg11_polymorphism_activity-2.py)
+* [SG 11 - POLYMORPHISM (Activity 2)](q2/sg11_polymorphism_activity-2.py)
